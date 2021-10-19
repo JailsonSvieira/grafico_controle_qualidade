@@ -1,0 +1,1 @@
+Aqui mostro como calcular e plotar o gráfico xbarra e da amplitude
